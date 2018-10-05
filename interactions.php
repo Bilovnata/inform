@@ -25,9 +25,9 @@
         <h3 class="text-center">Droppable and Draggable</h3>
       </div>
       <div class="col-md-8">
-        <img src="images/buket roz.jpg" width="230"  height="200" class="drag1" alt="">
-        <img src="images/buket.jpg" width="230" height="200" class="drag1" alt="">
-        <img src="images/Sinie zvety.jpg" width="230" height="200" class="drag1" alt="">
+        <img src="images/buket roz.jpg" width="220"  height="200" class="drag1" alt="">
+        <img src="images/buket.jpg" width="220" height="200" class="drag1" alt="">
+        <img src="images/Sinie zvety.jpg" width="220" height="200" class="drag1" alt="">
       </div>
       <div class="col-md-3 offset-md-1">
         <img src="images/trashcan-empty-icon.png" class="trash ml-4" alt="">
